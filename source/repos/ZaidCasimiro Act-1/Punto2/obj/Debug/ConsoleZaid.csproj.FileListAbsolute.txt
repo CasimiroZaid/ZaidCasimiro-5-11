@@ -1,0 +1,7 @@
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\obj\Debug\ConsoleZaid.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\obj\Debug\ConsoleZaid.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\bin\Debug\ConsoleZaid.exe.config
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\bin\Debug\ConsoleZaid.exe
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\bin\Debug\ConsoleZaid.pdb
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\obj\Debug\ConsoleZaid.exe
+C:\Users\alumno\source\repos\ConsoleZaid1\ConsoleZaid\obj\Debug\ConsoleZaid.pdb

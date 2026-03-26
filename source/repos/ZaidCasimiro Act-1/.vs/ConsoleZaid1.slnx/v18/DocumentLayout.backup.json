@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD626AC-8DB0-4230-B48E-AF989565C8AB}|Punto6\\Punto6.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\punto6\\punto6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD626AC-8DB0-4230-B48E-AF989565C8AB}|Punto6\\Punto6.csproj|solutionrelative:punto6\\punto6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A8B80-FC6D-47F8-BD3E-29FA19FCB47B}|Punto5\\Punto5.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\punto5\\punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A8B80-FC6D-47F8-BD3E-29FA19FCB47B}|Punto5\\Punto5.csproj|solutionrelative:punto5\\punto5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC4B7D-38C1-4BFB-AC49-C7F9A49B4D98}|Punto4\\Punto4.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC4B7D-38C1-4BFB-AC49-C7F9A49B4D98}|Punto4\\Punto4.csproj|solutionrelative:punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9B42-8843-4060-94A1-9DF2771597B8}|ConsoleZaid\\Punto2.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\consolezaid\\punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928B9B42-8843-4060-94A1-9DF2771597B8}|ConsoleZaid\\Punto2.csproj|solutionrelative:consolezaid\\punto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5C46D3-73F7-4D9B-84E5-BDA7E6B84B6B}|Punto3\\Punto3.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5C46D3-73F7-4D9B-84E5-BDA7E6B84B6B}|Punto3\\Punto3.csproj|solutionrelative:punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA0E4B-FCFE-4500-A277-6688094884F5}|ConsoleApp1\\Punto1.csproj|c:\\users\\alumno\\source\\repos\\consolezaid1\\consoleapp1\\punto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA0E4B-FCFE-4500-A277-6688094884F5}|ConsoleApp1\\Punto1.csproj|solutionrelative:consoleapp1\\punto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Punto6.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto6\\Punto6.cs",
+              "RelativeDocumentMoniker": "Punto6\\Punto6.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto6\\Punto6.cs",
+              "RelativeToolTip": "Punto6\\Punto6.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:41:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punto5.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto5\\Punto5.cs",
+              "RelativeDocumentMoniker": "Punto5\\Punto5.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto5\\Punto5.cs",
+              "RelativeToolTip": "Punto5\\Punto5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:28:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto4\\Program.cs",
+              "RelativeDocumentMoniker": "Punto4\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto4\\Program.cs",
+              "RelativeToolTip": "Punto4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:22:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto3\\Program.cs",
+              "RelativeDocumentMoniker": "Punto3\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\Punto3\\Program.cs",
+              "RelativeToolTip": "Punto3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:17:44.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Punto2.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\ConsoleZaid\\Punto2.cs",
+              "RelativeDocumentMoniker": "ConsoleZaid\\Punto2.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\ConsoleZaid\\Punto2.cs",
+              "RelativeToolTip": "ConsoleZaid\\Punto2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:38:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Punto1.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\ConsoleApp1\\Punto1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Punto1.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\ConsoleZaid1\\ConsoleApp1\\Punto1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Punto1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:30:55.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
