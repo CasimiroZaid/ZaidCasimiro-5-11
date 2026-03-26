@@ -1,7 +1,0 @@
-C:\Users\zaidc\source\repos\Punto1\Punto4\bin\Debug\Punto4.exe.config
-C:\Users\zaidc\source\repos\Punto1\Punto4\bin\Debug\Punto4.exe
-C:\Users\zaidc\source\repos\Punto1\Punto4\bin\Debug\Punto4.pdb
-C:\Users\zaidc\source\repos\Punto1\Punto4\obj\Debug\Punto4.csproj.AssemblyReference.cache
-C:\Users\zaidc\source\repos\Punto1\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
-C:\Users\zaidc\source\repos\Punto1\Punto4\obj\Debug\Punto4.exe
-C:\Users\zaidc\source\repos\Punto1\Punto4\obj\Debug\Punto4.pdb

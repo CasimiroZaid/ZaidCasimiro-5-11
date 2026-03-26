@@ -1,7 +1,0 @@
-C:\Users\zaidc\source\repos\Punto1\Testeo\bin\Debug\Testeo.exe.config
-C:\Users\zaidc\source\repos\Punto1\Testeo\bin\Debug\Testeo.exe
-C:\Users\zaidc\source\repos\Punto1\Testeo\bin\Debug\Testeo.pdb
-C:\Users\zaidc\source\repos\Punto1\Testeo\obj\Debug\Testeo.csproj.AssemblyReference.cache
-C:\Users\zaidc\source\repos\Punto1\Testeo\obj\Debug\Testeo.csproj.CoreCompileInputs.cache
-C:\Users\zaidc\source\repos\Punto1\Testeo\obj\Debug\Testeo.exe
-C:\Users\zaidc\source\repos\Punto1\Testeo\obj\Debug\Testeo.pdb
